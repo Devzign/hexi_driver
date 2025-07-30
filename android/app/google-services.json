@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "250478486134",
+    "firebase_url": "https://hey-baxivr-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "hey-baxivr",
+    "storage_bucket": "hey-baxivr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250478486134:android:90728e450cd8c2c82ab557",
+        "android_client_info": {
+          "package_name": "com.heybaxi.vr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250478486134-v7qkkpe8lpq9vnn18blnt1e1koudhpcj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzaaYfR2hz-qoLjQ1JfeWvMa2iIi62bZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250478486134-v7qkkpe8lpq9vnn18blnt1e1koudhpcj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "250478486134-1nk91mihab016r4g7r6ur849gdelnicj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.heybaxi.vr"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250478486134:android:4c935d55b33634d32ab557",
+        "android_client_info": {
+          "package_name": "com.heybaxidriver.vr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250478486134-v7qkkpe8lpq9vnn18blnt1e1koudhpcj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzaaYfR2hz-qoLjQ1JfeWvMa2iIi62bZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250478486134-v7qkkpe8lpq9vnn18blnt1e1koudhpcj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "250478486134-1nk91mihab016r4g7r6ur849gdelnicj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.heybaxi.vr"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

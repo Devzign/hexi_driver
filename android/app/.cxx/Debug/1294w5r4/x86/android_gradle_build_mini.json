@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/amitsinha/flutter_sdk/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/amitsinha/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/amitsinha/devzignProjects/flutter_app/hexi_driver/android/app/.cxx/Debug/1294w5r4/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/amitsinha/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/amitsinha/devzignProjects/flutter_app/hexi_driver/android/app/.cxx/Debug/1294w5r4/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}

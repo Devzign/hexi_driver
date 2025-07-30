@@ -1,0 +1,46 @@
+# Dart & Flutter
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+build/
+generated_plugin_registrant.dart
+
+# Flutter specific
+ios/Flutter/Flutter.podspec
+ios/.symlinks/
+ios/Pods/
+ios/Runner.xcworkspace/
+ios/Flutter/ephemeral/
+android/.gradle/
+android/local.properties
+android/.idea/
+macos/Pods/
+macos/.symlinks/
+macos/Flutter/ephemeral/
+macos/Flutter/Flutter.podspec
+linux/flutter/ephemeral/
+linux/build/
+windows/build/
+windows/runner/Debug/
+windows/runner/Release/
+
+# Web
+web/generated_plugin_registrant.dart
+
+# VS Code & IntelliJ
+.vscode/
+.idea/
+*.iml
+
+# Build outputs
+*.apk
+*.aab
+*.ipa
+
+# OS & misc
+.DS_Store
+*.lock
+*.log
+*.tmp
